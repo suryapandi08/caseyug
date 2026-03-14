@@ -1896,7 +1896,7 @@ if (slider && selectedValue) {
 
 // WhatsApp Floating Button
 document.addEventListener("DOMContentLoaded", function () {
-  var phone = "919791524859";
+  var phone = "918110000436";
   var message = "Hello! I would like to know more.";
 
   /* Create button */
